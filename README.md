@@ -1,4 +1,4 @@
-# -Sentimental_Analysis_Apple_Stocks
+# Sentimental_Analysis_Apple_Stocks
 # Apple Stock Sentiment Analysis Project
 
 Pleased to share a collaborative project completed alongside Gabrieland Daniel, where we explored market sentiment surrounding Apple (AAPL) stock. Our aim was to understand how news headlines might reflect and correlate with Apple's stock performance.
